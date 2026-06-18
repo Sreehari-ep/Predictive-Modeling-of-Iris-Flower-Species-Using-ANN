@@ -71,11 +71,11 @@ The ANN model successfully classified iris flower species with high accuracy, de
 ---
 
 ##  Features
-✔ Multi-class classification using ANN  
-✔ Data preprocessing and normalization  
-✔ Deep learning implementation with TensorFlow/Keras  
-✔ Prediction on unseen data  
-✔ Performance evaluation using accuracy and classification metrics  
+- Multi-class classification using ANN  
+- Data preprocessing and normalization  
+- Deep learning implementation with TensorFlow/Keras  
+- Prediction on unseen data  
+- Performance evaluation using accuracy and classification metrics  
 
 ---
 
